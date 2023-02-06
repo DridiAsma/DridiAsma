@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Asma Dridi</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<!-- <h3 align="center">A passionate frontend developer</h3> -->
    
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dridiasma&label=Profile%20views&color=0e75b6&style=flat" alt="dridiasma" /> </p>
-- 🔭 I’m currently working on **home**
+<!-- - 🔭 I’m currently working on **home** -->
 
 - 📫 How to reach me **asma.dridi.contact@gmail.com**
 
-- 👯 I’m looking to collaborate on
-
-- 👨‍💻 All of my projects are available at
+<!-- - 👯 I’m looking to collaborate on
+ -->
+<!-- - 👨‍💻 All of my projects are available at -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
