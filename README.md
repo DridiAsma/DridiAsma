@@ -13,14 +13,9 @@
 
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-
 ![](https://visitor-badge.glitch.me/badge?page_id=SajeebChakraborty)
 
-<br />
-
- 
- ![Junior-at-laravel](https://user-images.githubusercontent.com/48250220/231816227-f633193a-c2c9-4e56-a829-e62800203f6d.svg)
+ ![junior-at-laravel](https://user-images.githubusercontent.com/48250220/231816227-f633193a-c2c9-4e56-a829-e62800203f6d.svg)
 
 Hi, I'm Asma Dridi, a Software Developer 🚀 from Tunisia.
 
